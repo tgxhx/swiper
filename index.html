@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>swiper</title>
+    <link rel="stylesheet" href="./reset.css">
+    <style>
+        #container {
+            position: relative;
+            overflow: hidden;
+        }
+        ul {
+            position: relative;
+            transition: left .3s;
+        }
+        li {
+            float: left;
+            height:1200px;
+        }
+        li img {
+            width:100%;
+        }
+        .arrow div {
+            position: absolute;
+            top:40%;
+            transform: translate(-50%,0);
+            width:50px;
+            height:50px;
+            border-radius: 32px;
+            background-color: #fff;
+            text-align: center;
+            line-height:50px;
+            font-size:24px;
+            cursor: pointer;
+        }
+        #prev-arrow {
+            left:20px;
+        }
+        #next-arrow {
+            right:20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <ul>
+            <li><img src="./images/bg-01.jpg" alt=""></li>
+            <li><img src="./images/gakki-1.jpg" alt=""></li>
+            <li><img src="./images/gakki-4.jpg" alt=""></li>
+            <li><img src="./images/gakki-8.jpg" alt=""></li>
+        </ul>
+        <div class="arrow">
+            <div id="prev-arrow">&lt;</div>
+            <div id="next-arrow">&gt;</div>
+        </div>
+    </div>
+    <script src="./swiper.js"></script>
+</body>
+</html>
