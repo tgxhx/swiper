@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eea0c876-23e4-468a-983c-cf826a5d3591" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/swiper2.js" afterPath="" />
+    <list default="true" id="eea0c876-23e4-468a-983c-cf826a5d3591" name="Default" comment="readme">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,15 +37,15 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+              <first_editor relative-caret-position="748">
+                <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
                 <folding>
-                  <marker date="1499938237022" expanded="true" signature="59:758" ph="..." />
-                  <marker date="1499938237022" expanded="true" signature="82:386" ph="..." />
-                  <marker date="1499938237022" expanded="true" signature="413:619" ph="..." />
-                  <marker date="1499938237022" expanded="true" signature="676:680" ph="&lt;" />
-                  <marker date="1499938237022" expanded="true" signature="740:744" ph="&gt;" />
-                  <marker date="1499938237022" expanded="true" signature="834:907" ph="{...}" />
+                  <marker date="1499938721157" expanded="true" signature="98:797" ph="..." />
+                  <marker date="1499938721157" expanded="true" signature="121:425" ph="..." />
+                  <marker date="1499938721157" expanded="true" signature="452:658" ph="..." />
+                  <marker date="1499938721157" expanded="true" signature="715:719" ph="&lt;" />
+                  <marker date="1499938721157" expanded="true" signature="779:783" ph="&gt;" />
+                  <marker date="1499938721157" expanded="true" signature="873:946" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -59,8 +56,8 @@
       <file leaf-file-name="swiper.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/swiper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+            <state relative-caret-position="550">
+              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -92,9 +89,9 @@
         <option value="$PROJECT_DIR$/index2h.html" />
         <option value="$PROJECT_DIR$/swiper2.js" />
         <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/swiper.js" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -257,7 +254,7 @@
       <workItem from="1499840616957" duration="6670000" />
       <workItem from="1499850312720" duration="657000" />
       <workItem from="1499854509172" duration="20266000" />
-      <workItem from="1499934380825" duration="3998000" />
+      <workItem from="1499934380825" duration="4752000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1499937368748</created>
@@ -273,11 +270,25 @@
       <option name="project" value="LOCAL" />
       <updated>1499937794197</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readme">
+      <created>1499938404282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1499938404282</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <created>1499938733832</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1499938733832</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38668000" />
+    <option name="totallyTimeSpent" value="39422000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -398,24 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-            <folding>
-              <marker date="1499938237022" expanded="true" signature="59:758" ph="..." />
-              <marker date="1499938237022" expanded="true" signature="82:386" ph="..." />
-              <marker date="1499938237022" expanded="true" signature="413:619" ph="..." />
-              <marker date="1499938237022" expanded="true" signature="676:680" ph="&lt;" />
-              <marker date="1499938237022" expanded="true" signature="740:744" ph="&gt;" />
-              <marker date="1499938237022" expanded="true" signature="834:907" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -424,10 +417,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="748">
+            <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <folding>
+              <marker date="1499938721157" expanded="true" signature="98:797" ph="..." />
+              <marker date="1499938721157" expanded="true" signature="121:425" ph="..." />
+              <marker date="1499938721157" expanded="true" signature="452:658" ph="..." />
+              <marker date="1499938721157" expanded="true" signature="715:719" ph="&lt;" />
+              <marker date="1499938721157" expanded="true" signature="779:783" ph="&gt;" />
+              <marker date="1499938721157" expanded="true" signature="873:946" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/swiper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="54" column="11" lean-forward="true" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        <state relative-caret-position="550">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
           <folding />
         </state>
       </provider>
