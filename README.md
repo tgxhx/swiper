@@ -1,4 +1,4 @@
-# 一个原生javascript写的轮播图
+# javascript swiper
 
 ### html结构
 ```html
