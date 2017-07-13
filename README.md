@@ -1,5 +1,7 @@
 # javascript swiper
 
+> 预览地址：http://tgxhx.github.io/swiper/
+
 ### html结构
 ```html
 <div id="container">
